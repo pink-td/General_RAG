@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# 环境与密钥
+.env
+venv/
+.envrc
+
+# 运行产物
+logs/
+*.log
+*.db
+*.sqlite3
+rag_qa/models/
+bert_results/
+bert_logs/
+project-rag/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Python判断语句模块的技术要点是什么？",
+    "context": ["Python判断语句 1.if判断语句语法格式 2.比较/关系运算符"],
+    "answer": "Python判断语句模块的技术要点包括if判断语句语法格式和比较/关系运算符。",
+    "ground_truth": "if判断语句语法格式、比较/关系运算符。"
+  },
+  {
+    "question": "循环进阶与字符串容器模块包含哪些内容？",
+    "context": ["循环进阶与字符串容器 1.while语句语法格式2.while 循环嵌套 3.break 和 continue4.while 循环案例 5.for循环6.字符串定义语法格式 7.字符串遍历8.下标和切片9.字符串常见操作"],
+    "answer": "循环进阶与字符串容器模块包含while语句、while循环嵌套、break和continue、for循环、字符串定义、遍历、下标和切片等内容。",
+    "ground_truth": "while语句语法格式、while循环嵌套、break和continue、while循环案例、for循环、字符串定义语法格式、字符串遍历、下标和切片、字符串常见操作。"
+  },
+  {
+    "question": "Python容器模块的技术要点有哪些？",
+    "context": ["Python容器 1.列表语法格式2.列表的遍历3.列表常见操作 4.列表嵌套5.列表推导式6.元组语法格式7.元组操作 8.字典语法格式9.字典常见操作10.字典的遍历"],
+    "answer": "Python容器模块的技术要点包括列表语法、遍历、常见操作、嵌套、推导式，元组语法和操作，字典语法、操作和遍历。",
+    "ground_truth": "列表语法格式、列表遍历、列表常见操作、列表嵌套、列表推导式、元组语法格式、元组操作、字典语法格式、字典常见操作、字典遍历。"
+  },
+  {
+    "question": "Python函数模块的核心内容是什么？",
+    "context": ["Python函数 1.函数概念和作用、函数定义、调用 2.函数的参数3.函数的返回值4.函数的注释 5.函数的嵌套调用6.可变和不可变类型7.局部变量 8.全局变量9.组包和拆包、引用"],
+    "answer": "Python函数模块的核心内容包括函数定义、调用、参数、返回值、注释、嵌套调用、可变和不可变类型、局部和全局变量、组包拆包及引用。",
+    "ground_truth": "函数概念和作用、函数定义、调用、函数参数、返回值、注释、嵌套调用、可变和不可变类型、局部变量、全局变量、组包和拆包、引用。"
+  },
+  {
+    "question": "Python文件操作模块的技术要点是什么？",
+    "context": ["Python文件操作 1.文件的打开与关闭、文件的读写 2.文件、目录操作及案例 3.os 模块文件与目录相关操作"],
+    "answer": "Python文件操作模块的技术要点包括文件的打开与关闭、读写，文件和目录操作，以及os模块相关操作。",
+    "ground_truth": "文件的打开与关闭、文件的读写、文件和目录操作及案例、os模块文件与目录相关操作。"
+  },
+  {
+    "question": "Python异常处理模块包含哪些内容？",
+    "context": ["Python异常、模块与包 1.异常概念2.异常捕获3.异常的传递4.模块介绍 5.模块的导入6.包的概念7.包的导入8.模块中的__all_ 9.模块中_name_"],
+    "answer": "Python异常处理模块包含异常概念、捕获、传递，模块和包的导入，以及__all_和_name_的使用。",
+    "ground_truth": "异常概念、异常捕获、异常传递、模块介绍、模块导入、包的概念、包的导入、模块中的__all_、模块中的_name_。"
+  },
+  {
+    "question": "聊天机器人实战项目使用了哪些框架？",
+    "context": ["本项目结合了Streamlit和LangChain，构建了一个具备上下文记忆和复杂任务处理能力的智能聊天机器人。"],
+    "answer": "聊天机器人实战项目使用了Streamlit和LangChain框架。",
+    "ground_truth": "Streamlit和LangChain。"
+  },
+  {
+    "question": "Streamlit在聊天机器人项目中的作用是什么？",
+    "context": ["Streamlit提供了简洁易用的界面...基于Streamlit完成chatgpt界面设计"],
+    "answer": "Streamlit在聊天机器人项目中用于提供简洁易用的界面设计。",
+    "ground_truth": "提供简洁易用的界面设计。"
+  },
+  {
+    "question": "LangChain在聊天机器人项目中的作用是什么？",
+    "context": ["LangChain 负责对话逻辑和任务链执行，支持定制化对话流程和知识库查询。"],
+    "answer": "LangChain在聊天机器人项目中负责对话逻辑和任务链执行，支持定制化对话流程和知识库查询。",
+    "ground_truth": "负责对话逻辑和任务链执行，支持定制化对话流程和知识库查询。"
+  },
+  {
+    "question": "聊天机器人项目可以应用于哪些场景？",
+    "context": ["项目适用于客户服务、学习助手、知识管理等多种场景，具备快速开发、高度可定制和强扩展性的优势。"],
+    "answer": "聊天机器人项目可以应用于客户服务、学习助手、知识管理等场景。",
+    "ground_truth": "客户服务、学习助手、知识管理。"
+  },
+  {
+    "question": "大模型语言基础阶段的核心竞争力是什么？",
+    "context": ["可掌握的核心竞争力：\n\n1．掌握Python开发环境基本配置\n\n2．掌握运算符、表达式、流程控制语句、容器等的使用\n\n3．掌握字符串的基本操作\n\n4．掌握函数的定义及使用\n\n5．熟悉异常捕获的基本流程及使用方式"],
+    "answer": "大模型语言基础阶段的核心竞争力包括掌握Python开发环境配置、运算符、表达式、流程控制语句、容器、字符串操作、函数定义和使用，以及异常捕获。",
+    "ground_truth": "掌握Python开发环境基本配置、运算符、表达式、流程控制语句、容器等的使用、字符串的基本操作、函数的定义及使用、熟悉异常捕获的基本流程及使用方式。"
+  },
+  {
+    "question": "聊天机器人项目的核心竞争力有哪些？",
+    "context": ["可掌握的核心竞争力：\n\n1．了解Streamlit作用及Streamlit框架的安装\n\n2．能够基于Streamlit完成chatgpt界面设计\n\n3．了解 LangChain 框架的作用及 LangChain 框架组成\n\n4. 能够基于LangChain完成通义模型调用\n\n5．能够基于LangChain $.+$ Streamlit完成chatgpt机器人案例开发"],
+    "answer": "聊天机器人项目的核心竞争力包括了解Streamlit作用及安装、基于Streamlit设计界面、了解LangChain框架、基于LangChain调用通义模型、结合LangChain和Streamlit开发聊天机器人。",
+    "ground_truth": "了解Streamlit作用及Streamlit框架的安装、基于Streamlit完成chatgpt界面设计、了解LangChain框架的作用及组成、基于LangChain完成通义模型调用、基于LangChain和Streamlit完成chatgpt机器人案例开发。"
+  }
+]
